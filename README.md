@@ -15,4 +15,4 @@ java -jar VectorDrawableViewer.jar
 
 **如果你想直接使用，这里提供打包后的文件：**
 
-[VectorDrawableViewer.jar](https://github.com/Applex007/VectorDrawableViewer/blob/packages/packages/VectorDrawableViewer.jar)
+[VectorDrawableViewer.jar](https://github.com/Applex007/VectorDrawableViewer/blob/packages/packages/VectorDrawableViewer.jar?raw=true)
