@@ -1,7 +1,6 @@
 #VecorDrawableViewer
 
 ----
-https://github.com/Applex007/VectorDrawableViewer/blob/packages/packages/VectorDrawableViewer.jar
 ##Tool for view Android VectorDrawable
 
 It can now open and display composed of simple command Android vector files, but the complex command files need more time
